@@ -13,7 +13,7 @@ SMA Sains Al-Qur'an Wahid Hasyim
 Halo! Saya adalah seorang pelajar yang tertarik pada dunia teknologi dan pengembangan perangkat lunak. Saya sedang belajar di kelas X.6 di SMA Sains Al-Qur'an Wahid Hasyim
 
 ## Hobi
-- Membaca BUku
+- Membaca Buku
 - Nonton
 
 ## Kontak
